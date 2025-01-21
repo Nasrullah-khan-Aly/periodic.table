@@ -1,1 +1,1 @@
-# this is the peoridic table for the begnner project.
+# this is the peoridic table for the beginner project.
